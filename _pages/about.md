@@ -14,7 +14,7 @@ redirect_from:
 Hi! I’m Khai, an second-year AI Research Resident at [VinAI Research, Vietnam](http://www.vinai.io) under the supervision of  [Dr. Nhat Ho](https://nhatptnk8912.github.io/) and [Dr. Hung Bui](https://sites.google.com/site/buihhung/).
 ## My work and research
 My research interests are Optimal Transport (especially Sliced Optimal Transport), Generative modeling (including parameter estimation, Bayesian inference, etc), and their intersection.
-## Selected Publications
+## Publications
 ### BoMb-OT: On Batch of Mini-batches Optimal Transport 
 ***Khai Nguyen**, Quoc Nguyen, Nhat Ho,  Tung Pham, Hung Bui, Dinh Phung, Trung Le*  
 Under review at ICML 2021  [[arXiv](https://arxiv.org/abs/2102.05912)]
