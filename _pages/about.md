@@ -18,7 +18,7 @@ My research interests are Optimal Transport (especially Sliced Optimal Transport
 ### BoMb-OT: On Batch of Mini-batches Optimal Transport 
 ***Khai Nguyen**, Quoc Nguyen, Nhat Ho,  Tung Pham, Hung Bui, Dinh Phung, Trung Le*  
 Under review at ICML 2021  [[arXiv](https://arxiv.org/abs/2102.05912)]
-### Improving relational regularized autoencoders with spherical sliced fused Gromov Wasserstein
+### Improving Relational Regularized Autoencoders with Spherical Sliced Fused Gromov Wasserstein
 ***Khai Nguyen**, Son Nguyen, Nhat Ho,  Tung Pham, Hung Bui*  
 International Conference on Learning Representations (ICLR) 2021 [[arXiv](https://arxiv.org/abs/2010.01787)]
 ### Distributional Sliced-Wasserstein and Applications to Generative Modeling
