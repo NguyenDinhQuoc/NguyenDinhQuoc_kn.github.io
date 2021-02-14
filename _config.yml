@@ -86,13 +86,13 @@ author:
   location         : "Hanoi, Vietnam"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=im5fNaQAAAAJ&hl=en"
-  email            :
+  email            : "khai199733@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/NguyenBaKhai97/"
+  facebook         : "NguyenBaKhai97"
   foursquare       :
   github           : "khainb"
   google_plus      :
@@ -109,7 +109,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "vn_khainb"
+  wikipedia        :
 
 
 # Reading Files
@@ -136,7 +136,7 @@ exclude:
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
-  - LICENSE
+  - LIC ENSE
   - log
   - node_modules
   - package.json
