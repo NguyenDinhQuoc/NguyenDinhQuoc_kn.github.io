@@ -25,8 +25,10 @@ International Conference on Learning Representations (ICLR) 2021 [[arXiv](https:
 ### BoMb-OT: On Batch of Mini-batches Optimal Transport 
 ***Khai Nguyen**, Quoc Nguyen, Nhat Ho, Tung Pham, Hung Bui, Dinh Phung, Trung Le*  
 Under review at International Conference on Machine Learning (ICML) 2021  [[arXiv](https://arxiv.org/abs/2102.05912)]
-### BoMb-OT: On Batch of Mini-batches Optimal Transport 
+### Improving Bayesian Inference in Deep Neural Networks with Variational Structured Dropout
 *Son Nguyen, Duong Nguyen, **Khai Nguyen**, Nhat Ho, Khoat Than, Hung Bui*  
 Under review at International Conference on Machine Learning (ICML) 2021  [[arXiv](https://arxiv.org/abs/2102.07927)]
+## Professional Services
+I am serving as an reviewer at International Conference on Machine Learning (ICML) 2021.
 ## My background and history
 I graduated from  [Hanoi University of Science and Technology](https://soict.hust.edu.vn/) with a Computer Science Bachelor's degree.
