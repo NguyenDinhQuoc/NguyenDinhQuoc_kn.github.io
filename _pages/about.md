@@ -29,6 +29,6 @@ Under review [[arXiv](https://arxiv.org/abs/2102.05912)]
 *Son Nguyen, Duong Nguyen, **Khai Nguyen**, Nhat Ho, Khoat Than, Hung Bui*  
 Under review [[arXiv](https://arxiv.org/abs/2102.07927)]
 ## Professional Services
-I am a reviewer ICML 2021, NeurIPS 2021.
+I am a reviewer at ICML 2021, NeurIPS 2021.
 ## My background and history
 I graduated from  [Hanoi University of Science and Technology](https://soict.hust.edu.vn/) with a Computer Science Bachelor's degree.
