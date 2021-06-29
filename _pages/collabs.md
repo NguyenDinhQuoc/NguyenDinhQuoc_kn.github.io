@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /collabs/
 title: "Collaborators"
 excerpt: "Collaborators"
 author_profile: true
