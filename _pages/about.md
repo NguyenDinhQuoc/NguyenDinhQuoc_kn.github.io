@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
    
-Hi! I’m Khai, an second-year AI Research Resident at [VinAI Research, Vietnam](http://www.vinai.io) under the supervision of  [Dr. Nhat Ho](https://nhatptnk8912.github.io/) and [Dr. Hung Bui](https://sites.google.com/site/buihhung/). I will start my Ph.D. at University of Texas at Austin this Fall with a fellowship award.
+Hi! I’m Khai, a second-year AI Research Resident at [VinAI Research, Vietnam](http://www.vinai.io) under the supervision of  [Dr. Nhat Ho](https://nhatptnk8912.github.io/) and [Dr. Hung Bui](https://sites.google.com/site/buihhung/). I will be a my Ph.D. student in the department of Statistics and Data Science at University of Texas at Austin this Fall with a fellowship award.
 ## My work and research
 My research interests are Optimal Transport (especially Sliced Optimal Transport), Generative modeling (including parameter estimation, Bayesian inference, etc), and their intersection.
 ## Publications
@@ -29,6 +29,6 @@ Under review [[arXiv](https://arxiv.org/abs/2102.05912)]
 *Son Nguyen, Duong Nguyen, **Khai Nguyen**, Nhat Ho, Khoat Than, Hung Bui*  
 Under review [[arXiv](https://arxiv.org/abs/2102.07927)]
 ## Professional Services
-I am a reviewer at ICML 2021, NeurIPS 2021.
+I am a reviewer at ICML 2021, NeurIPS 2021, ICLR 2022.
 ## My background and history
-I graduated from  [Hanoi University of Science and Technology](https://soict.hust.edu.vn/) with a Computer Science Bachelor's degree.
+I graduated from  [Hanoi University of Science and Technology](https://soict.hust.edu.vn/) with an excellent Computer Science Bachelor's degree.
