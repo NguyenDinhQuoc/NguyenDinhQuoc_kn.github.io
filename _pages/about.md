@@ -11,9 +11,9 @@ redirect_from:
 {% include base_path %}
 
    
-Hi! I’m Khai, a second-year AI Research Resident at [VinAI Research, Vietnam](http://www.vinai.io) under the supervision of  [Dr. Nhat Ho](https://nhatptnk8912.github.io/) and [Dr. Hung Bui](https://sites.google.com/site/buihhung/). I will be a my Ph.D. student in the department of Statistics and Data Science at University of Texas at Austin this Fall with a fellowship award.
+Hi! I’m Khai, a fresh Ph.D. student at [Department of Statistics and Data Sciences](https://stat.utexas.edu/), [University of Texas at Austin](https://www.utexas.edu/). Before joining UT Austin, I was an AI Research Resident at [VinAI Research, Vietnam](http://www.vinai.io) under the supervision of  [Dr. Nhat Ho](https://nhatptnk8912.github.io/) and [Dr. Hung Bui](https://sites.google.com/site/buihhung/).
 ## My work and research
-My research interests are Optimal Transport (especially Sliced Optimal Transport), Generative modeling (including parameter estimation, Bayesian inference, etc), and their intersection.
+My current works are making [Optimal Transport](https://en.wikipedia.org/wiki/Transportation_theory_(mathematics)) scalable in Machine Learning. In particular, I investigate dimension reduction methods, sub-sampling methods (mini-batches) for Optimal Transport, and enhancing the performance of these methods. On the application side, I am interested in utilizing Optimal Transport to improve generative models, Bayesian inference, and other tasks that need to deal with probability measures.
 ## Publications
 ### Distributional Sliced-Wasserstein and Applications to Generative Modeling
 ***Khai Nguyen**, Nhat Ho, Tung Pham, Hung Bui*  
@@ -30,5 +30,7 @@ Under review [[arXiv](https://arxiv.org/abs/2102.05912)]
 Under review [[arXiv](https://arxiv.org/abs/2102.07927)]
 ## Professional Services
 I am a reviewer at ICML 2021, NeurIPS 2021, ICLR 2022.
+## Awards
+UT Austin Graduate Fellowship (1 year)
 ## My background and history
 I graduated from  [Hanoi University of Science and Technology](https://soict.hust.edu.vn/) with an excellent Computer Science Bachelor's degree.
