@@ -19,11 +19,9 @@ redirect_from:
 
 [Dat Do](https://lsa.umich.edu/stats/people/phd-students/dodat.html) - Phd Student, Department of Statistics, University of Michigan, Ann Arbor
 
-[Khang Le](https://www.linkedin.com/in/khang-le-401ba317a/) - Incoming Phd Student, Department of Statistics and Data Sciences, University of Texas, Austin
+[Khang Le](https://www.linkedin.com/in/khang-le-401ba317a/) - Phd Student, Department of Electrical and Computer Engineering, University of Texas, Austin
 
 ## Senior collaborators (in random order)
-
-[Nhat Ho](https://nhatptnk8912.github.io/) - Assistant Professor, Department of Statistics and Data Sciences, University of Texas, Austin
 
 [Hung Bui](https://sites.google.com/site/buihhung/) - Director, VinAI Research
 
