@@ -22,6 +22,9 @@ International Conference on Learning Representations (ICLR) 2021 (Spotlight 3.8%
 ***Khai Nguyen**, Son Nguyen, Nhat Ho, Tung Pham, Hung Bui*  
 International Conference on Learning Representations (ICLR) 2021 [[arXiv](https://arxiv.org/abs/2010.01787)]
 ## Submissions
+### An Efficient Mini-batch Method via Partial Transportation
+***Khai Nguyen**, Dang Nguyen, Tung Pham, Nhat Ho*  
+Under review [[arXiv](https://arxiv.org/abs/2108.09645)]
 ### BoMb-OT: On Batch of Mini-batches Optimal Transport 
 ***Khai Nguyen**, Quoc Nguyen, Nhat Ho, Tung Pham, Hung Bui, Dinh Phung, Trung Le*  
 Under review [[arXiv](https://arxiv.org/abs/2102.05912)]
