@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "vn_khainb"
+  username               :
 facebook:
   username               : 
   app_id                 :
@@ -92,7 +92,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "NguyenBaKhai97"
+  facebook         :
   foursquare       :
   github           :
   google_plus      :
@@ -104,7 +104,7 @@ author:
   soundcloud       :
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          :
   vine             :
   weibo            :
   xing             :
