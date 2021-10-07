@@ -23,7 +23,7 @@ Under review [[arXiv](https://arxiv.org/abs/2108.09645)]
 Under review [[arXiv](https://arxiv.org/abs/2102.05912)]
 ## Publications
 ### Structured Dropout Variational Inference for Bayesian Neural Networks
-*Son Nguyen, Duong Nguyen, **Khai Nguyen**, Nhat Ho, Khoat Than, Hung Bui*  
+*Son Nguyen, Duong Nguyen, **Khai Nguyen**, Khoat Than, Hung Bui, Nhat Ho*  
 Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021) [[arXiv](https://arxiv.org/abs/2102.07927)]
 ### Improving Relational Regularized Autoencoders with Spherical Sliced Fused Gromov Wasserstein
 ***Khai Nguyen**, Son Nguyen, Nhat Ho, Tung Pham, Hung Bui*  
