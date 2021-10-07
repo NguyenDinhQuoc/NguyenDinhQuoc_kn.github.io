@@ -19,7 +19,7 @@ My current works are making [Optimal Transport](https://en.wikipedia.org/wiki/Tr
 ***Khai Nguyen**, Dang Nguyen, Tung Pham, Nhat Ho*  
 Under review [[arXiv](https://arxiv.org/abs/2108.09645)]
 ### On Transportation of Mini-batches: A Hierarchical Approach
-***Khai Nguyen**, Quoc Nguyen, Nhat Ho, Tung Pham, Hung Bui, Dinh Phung, Trung Le*  
+***Khai Nguyen**, Dang Nguyen, Quoc Nguyen, Tung Pham, Hung Bui, Dinh Phung, Trung Le, Nhat Ho*  
 Under review [[arXiv](https://arxiv.org/abs/2102.05912)]
 ## Publications
 ### Structured Dropout Variational Inference for Bayesian Neural Networks
