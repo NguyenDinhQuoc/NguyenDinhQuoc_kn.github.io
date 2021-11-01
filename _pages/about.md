@@ -17,10 +17,13 @@ My current works are making [Optimal Transport](https://en.wikipedia.org/wiki/Tr
 ## Submissions
 ### Improving Mini-batch Optimal Transport via Partial Transportation
 ***Khai Nguyen**, Dang Nguyen, Tung Pham, Nhat Ho*  
-Under review [[arXiv](https://arxiv.org/abs/2108.09645)]
+Under review [[arXiv](https://arxiv.org/abs/2108.09645)] [[Code](https://github.com/khainb/BoMb-OT)]
 ### On Transportation of Mini-batches: A Hierarchical Approach
 ***Khai Nguyen**, Dang Nguyen, Quoc Nguyen, Tung Pham, Hung Bui, Dinh Phung, Trung Le, Nhat Ho*  
-Under review [[arXiv](https://arxiv.org/abs/2102.05912)]
+Under review [[arXiv](https://arxiv.org/abs/2102.05912)] [[Code](https://github.com/khainb/BoMb-OT)]
+### Model Fusion of Heterogeneous Neural Networks via Cross-Layer Alignment
+*Dang Nguyen, **Khai Nguyen**, Dinh Phung, Hung Bui, Nhat Ho*
+Under review
 ## Publications
 ### Structured Dropout Variational Inference for Bayesian Neural Networks
 *Son Nguyen, Duong Nguyen, **Khai Nguyen**, Khoat Than, Hung Bui, Nhat Ho*  
@@ -30,9 +33,9 @@ Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021) 
 International Conference on Learning Representations (ICLR) 2021 [[arXiv](https://arxiv.org/abs/2010.01787)]
 ### Distributional Sliced-Wasserstein and Applications to Generative Modeling
 ***Khai Nguyen**, Nhat Ho, Tung Pham, Hung Bui*  
-International Conference on Learning Representations (ICLR) 2021 (Spotlight 3.8%) [[arXiv](https://arxiv.org/abs/2002.07367)]
+International Conference on Learning Representations (ICLR) 2021 (Spotlight 3.8%) [[arXiv](https://arxiv.org/abs/2002.07367)] [[Code](https://github.com/VinAIResearch/DSW)]
 ## Professional Services
-I am a reviewer at ICML 2021, NeurIPS 2021, NeurIPS workshop on Deep Generative Models, ICLR 2022.
+I am a reviewer at ICML 2021, NeurIPS 2021, NeurIPS workshop on Deep Generative Models, ICLR 2022, AISTAT 2022.
 ## Awards
 UT Austin Graduate Fellowship.
 ## My background and history
