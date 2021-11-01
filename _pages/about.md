@@ -23,6 +23,7 @@ Under review [[arXiv](https://arxiv.org/abs/2108.09645)] [[Code](https://github.
 Under review [[arXiv](https://arxiv.org/abs/2102.05912)] [[Code](https://github.com/khainb/BoMb-OT)]
 ### Model Fusion of Heterogeneous Neural Networks via Cross-Layer Alignment
 *Dang Nguyen, **Khai Nguyen**, Dinh Phung, Hung Bui, Nhat Ho*
+
 Under review [[arXiv](https://arxiv.org/abs/2110.15538)]
 ## Publications
 ### Structured Dropout Variational Inference for Bayesian Neural Networks
@@ -35,7 +36,7 @@ International Conference on Learning Representations (ICLR) 2021 [[arXiv](https:
 ***Khai Nguyen**, Nhat Ho, Tung Pham, Hung Bui*  
 International Conference on Learning Representations (ICLR) 2021 (Spotlight 3.8%) [[arXiv](https://arxiv.org/abs/2002.07367)] [[Code](https://github.com/VinAIResearch/DSW)]
 ## Professional Services
-I am a reviewer at ICML 2021, NeurIPS 2021, NeurIPS workshop on Deep Generative Models, ICLR 2022, AISTAT 2022.
+I am a reviewer at ICML 2021, NeurIPS 2021, NeurIPS workshop on Deep Generative Models, ICLR 2022, AISTATS 2022.
 ## Awards
 UT Austin Graduate Fellowship.
 ## My background and history
