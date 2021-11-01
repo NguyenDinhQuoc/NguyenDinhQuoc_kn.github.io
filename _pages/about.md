@@ -23,7 +23,7 @@ Under review [[arXiv](https://arxiv.org/abs/2108.09645)] [[Code](https://github.
 Under review [[arXiv](https://arxiv.org/abs/2102.05912)] [[Code](https://github.com/khainb/BoMb-OT)]
 ### Model Fusion of Heterogeneous Neural Networks via Cross-Layer Alignment
 *Dang Nguyen, **Khai Nguyen**, Dinh Phung, Hung Bui, Nhat Ho*
-Under review
+Under review [[arXiv](https://arxiv.org/abs/2110.15538)]
 ## Publications
 ### Structured Dropout Variational Inference for Bayesian Neural Networks
 *Son Nguyen, Duong Nguyen, **Khai Nguyen**, Khoat Than, Hung Bui, Nhat Ho*  
