@@ -23,8 +23,8 @@ Under review [[arXiv](https://arxiv.org/abs/2108.09645)] [[Code](https://github.
 Under review [[arXiv](https://arxiv.org/abs/2102.05912)] [[Code](https://github.com/khainb/BoMb-OT)]
 ### Model Fusion of Heterogeneous Neural Networks via Cross-Layer Alignment
 *Dang Nguyen, **Khai Nguyen**, Dinh Phung, Hung Bui, Nhat Ho*
-Under review [[arXiv](https://arxiv.org/abs/2110.15538)]
 
+Under review [[arXiv](https://arxiv.org/abs/2110.15538)]
 ## Publications
 ### On Multimarginal Partial Optimal Transport: Equivalent Forms and Computational Complexity
 *Huy Nguyen, Khang Le, **Khai Nguyen**, Tung Pham, Nhat Ho*  
