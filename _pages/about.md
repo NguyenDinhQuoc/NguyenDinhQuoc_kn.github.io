@@ -21,17 +21,17 @@ Under review [[arXiv](https://arxiv.org/abs/2108.09645)] [[Code](https://github.
 ### On Transportation of Mini-batches: A Hierarchical Approach
 ***Khai Nguyen**, Dang Nguyen, Quoc Nguyen, Tung Pham, Hung Bui, Dinh Phung, Trung Le, Nhat Ho*  
 Under review [[arXiv](https://arxiv.org/abs/2102.05912)] [[Code](https://github.com/khainb/BoMb-OT)]
-### On Multimarginal Partial Optimal Transport: Equivalent Forms and Computational Complexity
-*Huy Nguyen, Khang Le, **Khai Nguyen**, Tung Pham, Nhat Ho*  
-Under review [[arXiv](https://arxiv.org/pdf/2108.07992.pdf)]
 ### Model Fusion of Heterogeneous Neural Networks via Cross-Layer Alignment
 *Dang Nguyen, **Khai Nguyen**, Dinh Phung, Hung Bui, Nhat Ho*
-
 Under review [[arXiv](https://arxiv.org/abs/2110.15538)]
+
 ## Publications
+### On Multimarginal Partial Optimal Transport: Equivalent Forms and Computational Complexity
+*Huy Nguyen, Khang Le, **Khai Nguyen**, Tung Pham, Nhat Ho*  
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2022 [[arXiv](https://arxiv.org/pdf/2108.07992.pdf)]
 ### Structured Dropout Variational Inference for Bayesian Neural Networks
 *Son Nguyen, Duong Nguyen, **Khai Nguyen**, Khoat Than, Hung Bui, Nhat Ho*  
-Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021) [[arXiv](https://arxiv.org/abs/2102.07927)]
+Conference on Neural Information Processing Systems (NeurIPS 2021) [[arXiv](https://arxiv.org/abs/2102.07927)]
 ### Improving Relational Regularized Autoencoders with Spherical Sliced Fused Gromov Wasserstein
 ***Khai Nguyen**, Son Nguyen, Nhat Ho, Tung Pham, Hung Bui*  
 International Conference on Learning Representations (ICLR) 2021 [[arXiv](https://arxiv.org/abs/2010.01787)]
