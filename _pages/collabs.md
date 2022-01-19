@@ -11,9 +11,9 @@ redirect_from:
 {% include base_path %}
 
 ## Junior collaborators (in random order)
-[Dang Nguyen](https://lntk.github.io/) - AI Research Resident, VinAI Research
+[Dang Nguyen](https://hsgser.github.io/) - AI Research Resident, VinAI Research
 
-[Son Nguyen](https://lntk.github.io/) - AI Research Resident, VinAI Research
+[Son Nguyen](https://sonpeter.github.io/) - AI Research Resident, VinAI Research
 
 [Huy Nguyen](https://huynm99.github.io/) AI Research Resident, VinAI Research
 
